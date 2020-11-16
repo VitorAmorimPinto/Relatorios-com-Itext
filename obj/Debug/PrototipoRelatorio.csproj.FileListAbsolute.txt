@@ -1,0 +1,651 @@
+C:\Users\augusto.alves\source\repos\PrototipoRelatorio\bin\Debug\PrototipoRelatorio.exe.config
+C:\Users\augusto.alves\source\repos\PrototipoRelatorio\bin\Debug\PrototipoRelatorio.exe
+C:\Users\augusto.alves\source\repos\PrototipoRelatorio\bin\Debug\PrototipoRelatorio.pdb
+C:\Users\augusto.alves\source\repos\PrototipoRelatorio\obj\Debug\PrototipoRelatorio.Properties.Resources.resources
+C:\Users\augusto.alves\source\repos\PrototipoRelatorio\obj\Debug\PrototipoRelatorio.csproj.GenerateResource.cache
+C:\Users\augusto.alves\source\repos\PrototipoRelatorio\obj\Debug\PrototipoRelatorio.exe
+C:\Users\augusto.alves\source\repos\PrototipoRelatorio\obj\Debug\PrototipoRelatorio.pdb
+C:\Users\augusto.alves\source\repos\PrototipoRelatorio\obj\Debug\PrototipoRelatorio.Form1.resources
+C:\Users\QG\Desktop\PrototipoRelatorio\obj\Debug\PrototipoRelatorio.Form1.resources
+C:\Users\QG\Desktop\PrototipoRelatorio\obj\Debug\PrototipoRelatorio.csproj.GenerateResource.cache
+C:\Users\QG\Desktop\PrototipoRelatorio\obj\Debug\RdlCompile.cache
+C:\Users\QG\Desktop\PrototipoRelatorio\obj\Debug\RdlCompile.compiled
+C:\Users\QG\Desktop\PrototipoRelatorio\obj\Debug\PrototipoRelatorio.csproj.CoreCompileInputs.cache
+C:\Users\QG\Desktop\PrototipoRelatorio\obj\Debug\PrototipoRelatorio.exe
+C:\Users\QG\Desktop\PrototipoRelatorio\obj\Debug\PrototipoRelatorio.pdb
+C:\Users\QG\Desktop\PrototipoRelatorio\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\QG\Desktop\PrototipoRelatorio\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\QG\Desktop\PrototipoRelatorio\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\QG\Desktop\PrototipoRelatorio\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\QG\Desktop\PrototipoRelatorio\bin\Debug\PrototipoRelatorio.exe.config
+C:\Users\QG\Desktop\PrototipoRelatorio\bin\Debug\PrototipoRelatorio.exe
+C:\Users\QG\Desktop\PrototipoRelatorio\bin\Debug\PrototipoRelatorio.pdb
+C:\Users\QG\Desktop\PrototipoRelatorio\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\QG\Desktop\PrototipoRelatorio\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\QG\Desktop\PrototipoRelatorio\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\QG\Desktop\PrototipoRelatorio\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\QG\Desktop\PrototipoRelatorio\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\QG\Desktop\PrototipoRelatorio\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\QG\Desktop\PrototipoRelatorio\bin\Debug\EnvDTE.dll
+C:\Users\QG\Desktop\PrototipoRelatorio\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\QG\Desktop\PrototipoRelatorio\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\QG\Desktop\PrototipoRelatorio\bin\Debug\stdole.dll
+C:\Users\QG\Desktop\PrototipoRelatorio\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\QG\Desktop\PrototipoRelatorio\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\QG\Desktop\PrototipoRelatorio\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\QG\Desktop\PrototipoRelatorio\bin\Debug\Microsoft.MSXML.dll
+C:\Users\QG\Desktop\PrototipoRelatorio\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\QG\Desktop\PrototipoRelatorio\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\QG\Desktop\PrototipoRelatorio\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\QG\Desktop\PrototipoRelatorio\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\QG\Desktop\PrototipoRelatorio\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\QG\Desktop\PrototipoRelatorio\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\QG\Desktop\PrototipoRelatorio\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\QG\Desktop\PrototipoRelatorio\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\QG\Desktop\PrototipoRelatorio\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\QG\Desktop\PrototipoRelatorio\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\QG\Desktop\PrototipoRelatorio\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\QG\Desktop\PrototipoRelatorio\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\QG\Desktop\PrototipoRelatorio\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\QG\Desktop\PrototipoRelatorio\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\QG\Desktop\PrototipoRelatorio\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\QG\Desktop\PrototipoRelatorio\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\QG\Desktop\PrototipoRelatorio\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\QG\Desktop\PrototipoRelatorio\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\QG\Desktop\PrototipoRelatorio\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\QG\Desktop\PrototipoRelatorio\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\QG\Desktop\PrototipoRelatorio\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\QG\Desktop\PrototipoRelatorio\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\QG\Desktop\PrototipoRelatorio\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\QG\Desktop\PrototipoRelatorio\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\QG\Desktop\PrototipoRelatorio\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\QG\Desktop\PrototipoRelatorio\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\QG\Desktop\PrototipoRelatorio\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\QG\Desktop\PrototipoRelatorio\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\QG\Desktop\PrototipoRelatorio\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\QG\Desktop\PrototipoRelatorio\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\QG\Desktop\PrototipoRelatorio\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\QG\Desktop\PrototipoRelatorio\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\QG\Desktop\PrototipoRelatorio\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\QG\Desktop\PrototipoRelatorio\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\QG\Desktop\PrototipoRelatorio\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\QG\Desktop\PrototipoRelatorio\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\QG\Desktop\PrototipoRelatorio\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\QG\Desktop\PrototipoRelatorio\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\QG\Desktop\PrototipoRelatorio\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\QG\Desktop\PrototipoRelatorio\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\QG\Desktop\PrototipoRelatorio\obj\Debug\PrototipoRelatorio.csproj.CopyComplete
+C:\Users\QG\Desktop\PrototipoRelatorio\obj\Debug\PrototipoRelatorio.csprojAssemblyReference.cache
+C:\Users\QG\Documents\GitHub\Relatorio\PrototipoRelatorio\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\QG\Documents\GitHub\Relatorio\PrototipoRelatorio\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\QG\Documents\GitHub\Relatorio\PrototipoRelatorio\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\QG\Documents\GitHub\Relatorio\PrototipoRelatorio\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\QG\Documents\GitHub\Relatorio\PrototipoRelatorio\bin\Debug\PrototipoRelatorio.exe.config
+C:\Users\QG\Documents\GitHub\Relatorio\PrototipoRelatorio\bin\Debug\PrototipoRelatorio.exe
+C:\Users\QG\Documents\GitHub\Relatorio\PrototipoRelatorio\bin\Debug\PrototipoRelatorio.pdb
+C:\Users\QG\Documents\GitHub\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\QG\Documents\GitHub\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\QG\Documents\GitHub\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\QG\Documents\GitHub\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\QG\Documents\GitHub\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\QG\Documents\GitHub\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\QG\Documents\GitHub\Relatorio\PrototipoRelatorio\bin\Debug\EnvDTE.dll
+C:\Users\QG\Documents\GitHub\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\QG\Documents\GitHub\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\QG\Documents\GitHub\Relatorio\PrototipoRelatorio\bin\Debug\stdole.dll
+C:\Users\QG\Documents\GitHub\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\QG\Documents\GitHub\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\QG\Documents\GitHub\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\QG\Documents\GitHub\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.MSXML.dll
+C:\Users\QG\Documents\GitHub\Relatorio\PrototipoRelatorio\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\QG\Documents\GitHub\Relatorio\PrototipoRelatorio\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\QG\Documents\GitHub\Relatorio\PrototipoRelatorio\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\QG\Documents\GitHub\Relatorio\PrototipoRelatorio\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\QG\Documents\GitHub\Relatorio\PrototipoRelatorio\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\QG\Documents\GitHub\Relatorio\PrototipoRelatorio\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\QG\Documents\GitHub\Relatorio\PrototipoRelatorio\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\QG\Documents\GitHub\Relatorio\PrototipoRelatorio\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\QG\Documents\GitHub\Relatorio\PrototipoRelatorio\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\QG\Documents\GitHub\Relatorio\PrototipoRelatorio\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\QG\Documents\GitHub\Relatorio\PrototipoRelatorio\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\QG\Documents\GitHub\Relatorio\PrototipoRelatorio\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\QG\Documents\GitHub\Relatorio\PrototipoRelatorio\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\QG\Documents\GitHub\Relatorio\PrototipoRelatorio\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\QG\Documents\GitHub\Relatorio\PrototipoRelatorio\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\QG\Documents\GitHub\Relatorio\PrototipoRelatorio\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\QG\Documents\GitHub\Relatorio\PrototipoRelatorio\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\QG\Documents\GitHub\Relatorio\PrototipoRelatorio\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\QG\Documents\GitHub\Relatorio\PrototipoRelatorio\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\QG\Documents\GitHub\Relatorio\PrototipoRelatorio\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\QG\Documents\GitHub\Relatorio\PrototipoRelatorio\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\QG\Documents\GitHub\Relatorio\PrototipoRelatorio\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\QG\Documents\GitHub\Relatorio\PrototipoRelatorio\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\QG\Documents\GitHub\Relatorio\PrototipoRelatorio\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\QG\Documents\GitHub\Relatorio\PrototipoRelatorio\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\QG\Documents\GitHub\Relatorio\PrototipoRelatorio\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\QG\Documents\GitHub\Relatorio\PrototipoRelatorio\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\QG\Documents\GitHub\Relatorio\PrototipoRelatorio\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\QG\Documents\GitHub\Relatorio\PrototipoRelatorio\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\QG\Documents\GitHub\Relatorio\PrototipoRelatorio\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\QG\Documents\GitHub\Relatorio\PrototipoRelatorio\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\QG\Documents\GitHub\Relatorio\PrototipoRelatorio\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\QG\Documents\GitHub\Relatorio\PrototipoRelatorio\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\QG\Documents\GitHub\Relatorio\PrototipoRelatorio\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\QG\Documents\GitHub\Relatorio\PrototipoRelatorio\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\QG\Documents\GitHub\Relatorio\PrototipoRelatorio\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\QG\Documents\GitHub\Relatorio\PrototipoRelatorio\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\QG\Documents\GitHub\Relatorio\PrototipoRelatorio\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\QG\Documents\GitHub\Relatorio\PrototipoRelatorio\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\QG\Documents\GitHub\Relatorio\PrototipoRelatorio\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\QG\Documents\GitHub\Relatorio\PrototipoRelatorio\obj\Debug\PrototipoRelatorio.csprojAssemblyReference.cache
+C:\Users\QG\Documents\GitHub\Relatorio\PrototipoRelatorio\obj\Debug\PrototipoRelatorio.Form1.resources
+C:\Users\QG\Documents\GitHub\Relatorio\PrototipoRelatorio\obj\Debug\PrototipoRelatorio.csproj.GenerateResource.cache
+C:\Users\QG\Documents\GitHub\Relatorio\PrototipoRelatorio\obj\Debug\RdlCompile.cache
+C:\Users\QG\Documents\GitHub\Relatorio\PrototipoRelatorio\obj\Debug\RdlCompile.compiled
+C:\Users\QG\Documents\GitHub\Relatorio\PrototipoRelatorio\obj\Debug\PrototipoRelatorio.csproj.CoreCompileInputs.cache
+C:\Users\QG\Documents\GitHub\Relatorio\PrototipoRelatorio\obj\Debug\PrototipoRelatorio.csproj.CopyComplete
+C:\Users\QG\Documents\GitHub\Relatorio\PrototipoRelatorio\obj\Debug\PrototipoRelatorio.exe
+C:\Users\QG\Documents\GitHub\Relatorio\PrototipoRelatorio\obj\Debug\PrototipoRelatorio.pdb
+C:\Users\vitor.pinto\Desktop\Projeto Cpa\Relatorio\PrototipoRelatorio\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\vitor.pinto\Desktop\Projeto Cpa\Relatorio\PrototipoRelatorio\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\vitor.pinto\Desktop\Projeto Cpa\Relatorio\PrototipoRelatorio\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\vitor.pinto\Desktop\Projeto Cpa\Relatorio\PrototipoRelatorio\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\vitor.pinto\Desktop\Projeto Cpa\Relatorio\PrototipoRelatorio\bin\Debug\PrototipoRelatorio.exe.config
+C:\Users\vitor.pinto\Desktop\Projeto Cpa\Relatorio\PrototipoRelatorio\bin\Debug\PrototipoRelatorio.exe
+C:\Users\vitor.pinto\Desktop\Projeto Cpa\Relatorio\PrototipoRelatorio\bin\Debug\PrototipoRelatorio.pdb
+C:\Users\vitor.pinto\Desktop\Projeto Cpa\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\vitor.pinto\Desktop\Projeto Cpa\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\vitor.pinto\Desktop\Projeto Cpa\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\vitor.pinto\Desktop\Projeto Cpa\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\vitor.pinto\Desktop\Projeto Cpa\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\vitor.pinto\Desktop\Projeto Cpa\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\vitor.pinto\Desktop\Projeto Cpa\Relatorio\PrototipoRelatorio\bin\Debug\EnvDTE.dll
+C:\Users\vitor.pinto\Desktop\Projeto Cpa\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\vitor.pinto\Desktop\Projeto Cpa\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\vitor.pinto\Desktop\Projeto Cpa\Relatorio\PrototipoRelatorio\bin\Debug\stdole.dll
+C:\Users\vitor.pinto\Desktop\Projeto Cpa\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\vitor.pinto\Desktop\Projeto Cpa\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\vitor.pinto\Desktop\Projeto Cpa\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\vitor.pinto\Desktop\Projeto Cpa\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.MSXML.dll
+C:\Users\vitor.pinto\Desktop\Projeto Cpa\Relatorio\PrototipoRelatorio\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vitor.pinto\Desktop\Projeto Cpa\Relatorio\PrototipoRelatorio\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vitor.pinto\Desktop\Projeto Cpa\Relatorio\PrototipoRelatorio\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vitor.pinto\Desktop\Projeto Cpa\Relatorio\PrototipoRelatorio\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vitor.pinto\Desktop\Projeto Cpa\Relatorio\PrototipoRelatorio\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vitor.pinto\Desktop\Projeto Cpa\Relatorio\PrototipoRelatorio\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vitor.pinto\Desktop\Projeto Cpa\Relatorio\PrototipoRelatorio\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vitor.pinto\Desktop\Projeto Cpa\Relatorio\PrototipoRelatorio\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vitor.pinto\Desktop\Projeto Cpa\Relatorio\PrototipoRelatorio\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vitor.pinto\Desktop\Projeto Cpa\Relatorio\PrototipoRelatorio\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vitor.pinto\Desktop\Projeto Cpa\Relatorio\PrototipoRelatorio\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vitor.pinto\Desktop\Projeto Cpa\Relatorio\PrototipoRelatorio\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vitor.pinto\Desktop\Projeto Cpa\Relatorio\PrototipoRelatorio\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vitor.pinto\Desktop\Projeto Cpa\Relatorio\PrototipoRelatorio\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vitor.pinto\Desktop\Projeto Cpa\Relatorio\PrototipoRelatorio\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vitor.pinto\Desktop\Projeto Cpa\Relatorio\PrototipoRelatorio\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vitor.pinto\Desktop\Projeto Cpa\Relatorio\PrototipoRelatorio\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vitor.pinto\Desktop\Projeto Cpa\Relatorio\PrototipoRelatorio\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vitor.pinto\Desktop\Projeto Cpa\Relatorio\PrototipoRelatorio\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vitor.pinto\Desktop\Projeto Cpa\Relatorio\PrototipoRelatorio\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vitor.pinto\Desktop\Projeto Cpa\Relatorio\PrototipoRelatorio\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vitor.pinto\Desktop\Projeto Cpa\Relatorio\PrototipoRelatorio\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vitor.pinto\Desktop\Projeto Cpa\Relatorio\PrototipoRelatorio\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vitor.pinto\Desktop\Projeto Cpa\Relatorio\PrototipoRelatorio\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vitor.pinto\Desktop\Projeto Cpa\Relatorio\PrototipoRelatorio\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vitor.pinto\Desktop\Projeto Cpa\Relatorio\PrototipoRelatorio\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vitor.pinto\Desktop\Projeto Cpa\Relatorio\PrototipoRelatorio\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vitor.pinto\Desktop\Projeto Cpa\Relatorio\PrototipoRelatorio\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vitor.pinto\Desktop\Projeto Cpa\Relatorio\PrototipoRelatorio\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vitor.pinto\Desktop\Projeto Cpa\Relatorio\PrototipoRelatorio\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vitor.pinto\Desktop\Projeto Cpa\Relatorio\PrototipoRelatorio\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vitor.pinto\Desktop\Projeto Cpa\Relatorio\PrototipoRelatorio\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vitor.pinto\Desktop\Projeto Cpa\Relatorio\PrototipoRelatorio\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vitor.pinto\Desktop\Projeto Cpa\Relatorio\PrototipoRelatorio\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vitor.pinto\Desktop\Projeto Cpa\Relatorio\PrototipoRelatorio\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vitor.pinto\Desktop\Projeto Cpa\Relatorio\PrototipoRelatorio\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vitor.pinto\Desktop\Projeto Cpa\Relatorio\PrototipoRelatorio\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vitor.pinto\Desktop\Projeto Cpa\Relatorio\PrototipoRelatorio\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vitor.pinto\Desktop\Projeto Cpa\Relatorio\PrototipoRelatorio\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vitor.pinto\Desktop\Projeto Cpa\Relatorio\PrototipoRelatorio\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vitor.pinto\Desktop\Projeto Cpa\Relatorio\PrototipoRelatorio\obj\Debug\PrototipoRelatorio.csprojAssemblyReference.cache
+C:\Users\vitor.pinto\Desktop\Projeto Cpa\Relatorio\PrototipoRelatorio\obj\Debug\PrototipoRelatorio.Form1.resources
+C:\Users\vitor.pinto\Desktop\Projeto Cpa\Relatorio\PrototipoRelatorio\obj\Debug\PrototipoRelatorio.csproj.GenerateResource.cache
+C:\Users\vitor.pinto\Desktop\Projeto Cpa\Relatorio\PrototipoRelatorio\obj\Debug\RdlCompile.cache
+C:\Users\vitor.pinto\Desktop\Projeto Cpa\Relatorio\PrototipoRelatorio\obj\Debug\RdlCompile.compiled
+C:\Users\vitor.pinto\Desktop\Projeto Cpa\Relatorio\PrototipoRelatorio\obj\Debug\PrototipoRelatorio.csproj.CoreCompileInputs.cache
+C:\Users\vitor.pinto\Desktop\Projeto Cpa\Relatorio\PrototipoRelatorio\obj\Debug\PrototipoRelatorio.csproj.CopyComplete
+C:\Users\vitor.pinto\Desktop\Projeto Cpa\Relatorio\PrototipoRelatorio\obj\Debug\PrototipoRelatorio.exe
+C:\Users\vitor.pinto\Desktop\Projeto Cpa\Relatorio\PrototipoRelatorio\obj\Debug\PrototipoRelatorio.pdb
+C:\Users\Vitor\Downloads\Relatorio\PrototipoRelatorio\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Vitor\Downloads\Relatorio\PrototipoRelatorio\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Vitor\Downloads\Relatorio\PrototipoRelatorio\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Vitor\Downloads\Relatorio\PrototipoRelatorio\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Vitor\Downloads\Relatorio\PrototipoRelatorio\bin\Debug\PrototipoRelatorio.exe.config
+C:\Users\Vitor\Downloads\Relatorio\PrototipoRelatorio\bin\Debug\PrototipoRelatorio.exe
+C:\Users\Vitor\Downloads\Relatorio\PrototipoRelatorio\bin\Debug\PrototipoRelatorio.pdb
+C:\Users\Vitor\Downloads\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Vitor\Downloads\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Vitor\Downloads\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Vitor\Downloads\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Vitor\Downloads\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Vitor\Downloads\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Vitor\Downloads\Relatorio\PrototipoRelatorio\bin\Debug\EnvDTE.dll
+C:\Users\Vitor\Downloads\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Vitor\Downloads\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Vitor\Downloads\Relatorio\PrototipoRelatorio\bin\Debug\stdole.dll
+C:\Users\Vitor\Downloads\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Vitor\Downloads\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Vitor\Downloads\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Vitor\Downloads\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Vitor\Downloads\Relatorio\PrototipoRelatorio\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Vitor\Downloads\Relatorio\PrototipoRelatorio\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Vitor\Downloads\Relatorio\PrototipoRelatorio\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Vitor\Downloads\Relatorio\PrototipoRelatorio\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Vitor\Downloads\Relatorio\PrototipoRelatorio\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Vitor\Downloads\Relatorio\PrototipoRelatorio\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Vitor\Downloads\Relatorio\PrototipoRelatorio\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Vitor\Downloads\Relatorio\PrototipoRelatorio\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Vitor\Downloads\Relatorio\PrototipoRelatorio\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Vitor\Downloads\Relatorio\PrototipoRelatorio\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Vitor\Downloads\Relatorio\PrototipoRelatorio\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Vitor\Downloads\Relatorio\PrototipoRelatorio\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Vitor\Downloads\Relatorio\PrototipoRelatorio\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Vitor\Downloads\Relatorio\PrototipoRelatorio\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Vitor\Downloads\Relatorio\PrototipoRelatorio\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Vitor\Downloads\Relatorio\PrototipoRelatorio\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Vitor\Downloads\Relatorio\PrototipoRelatorio\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Vitor\Downloads\Relatorio\PrototipoRelatorio\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Vitor\Downloads\Relatorio\PrototipoRelatorio\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Vitor\Downloads\Relatorio\PrototipoRelatorio\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Vitor\Downloads\Relatorio\PrototipoRelatorio\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Vitor\Downloads\Relatorio\PrototipoRelatorio\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Vitor\Downloads\Relatorio\PrototipoRelatorio\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Vitor\Downloads\Relatorio\PrototipoRelatorio\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Vitor\Downloads\Relatorio\PrototipoRelatorio\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Vitor\Downloads\Relatorio\PrototipoRelatorio\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Vitor\Downloads\Relatorio\PrototipoRelatorio\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Vitor\Downloads\Relatorio\PrototipoRelatorio\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Vitor\Downloads\Relatorio\PrototipoRelatorio\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Vitor\Downloads\Relatorio\PrototipoRelatorio\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Vitor\Downloads\Relatorio\PrototipoRelatorio\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Vitor\Downloads\Relatorio\PrototipoRelatorio\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Vitor\Downloads\Relatorio\PrototipoRelatorio\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Vitor\Downloads\Relatorio\PrototipoRelatorio\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Vitor\Downloads\Relatorio\PrototipoRelatorio\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Vitor\Downloads\Relatorio\PrototipoRelatorio\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Vitor\Downloads\Relatorio\PrototipoRelatorio\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Vitor\Downloads\Relatorio\PrototipoRelatorio\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Vitor\Downloads\Relatorio\PrototipoRelatorio\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Vitor\Downloads\Relatorio\PrototipoRelatorio\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Vitor\Downloads\Relatorio\PrototipoRelatorio\obj\Debug\PrototipoRelatorio.csprojAssemblyReference.cache
+C:\Users\Vitor\Downloads\Relatorio\PrototipoRelatorio\obj\Debug\PrototipoRelatorio.Form1.resources
+C:\Users\Vitor\Downloads\Relatorio\PrototipoRelatorio\obj\Debug\PrototipoRelatorio.csproj.GenerateResource.cache
+C:\Users\Vitor\Downloads\Relatorio\PrototipoRelatorio\obj\Debug\PrototipoRelatorio.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\Downloads\Relatorio\PrototipoRelatorio\obj\Debug\PrototipoRelatorio.csproj.CopyComplete
+C:\Users\Vitor\Downloads\Relatorio\PrototipoRelatorio\obj\Debug\PrototipoRelatorio.exe
+C:\Users\Vitor\Downloads\Relatorio\PrototipoRelatorio\obj\Debug\PrototipoRelatorio.pdb
+C:\Users\Vitor\Desktop\Teste Discursivas\Relatorio\PrototipoRelatorio\obj\Debug\PrototipoRelatorio.csprojAssemblyReference.cache
+C:\Users\Vitor\Desktop\Teste Discursivas\Relatorio\PrototipoRelatorio\obj\Debug\PrototipoRelatorio.Form1.resources
+C:\Users\Vitor\Desktop\Teste Discursivas\Relatorio\PrototipoRelatorio\obj\Debug\PrototipoRelatorio.csproj.GenerateResource.cache
+C:\Users\Vitor\Desktop\Teste Discursivas\Relatorio\PrototipoRelatorio\obj\Debug\RdlCompile.cache
+C:\Users\Vitor\Desktop\Teste Discursivas\Relatorio\PrototipoRelatorio\obj\Debug\RdlCompile.compiled
+C:\Users\Vitor\Desktop\Teste Discursivas\Relatorio\PrototipoRelatorio\obj\Debug\PrototipoRelatorio.exe
+C:\Users\Vitor\Desktop\Teste Discursivas\Relatorio\PrototipoRelatorio\obj\Debug\PrototipoRelatorio.pdb
+C:\Users\Vitor\Desktop\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Vitor\Desktop\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Vitor\Desktop\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Vitor\Desktop\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Vitor\Desktop\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\PrototipoRelatorio.exe.config
+C:\Users\Vitor\Desktop\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\PrototipoRelatorio.exe
+C:\Users\Vitor\Desktop\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\PrototipoRelatorio.pdb
+C:\Users\Vitor\Desktop\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Vitor\Desktop\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Vitor\Desktop\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Vitor\Desktop\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Vitor\Desktop\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Vitor\Desktop\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Vitor\Desktop\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\EnvDTE.dll
+C:\Users\Vitor\Desktop\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Vitor\Desktop\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Vitor\Desktop\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\stdole.dll
+C:\Users\Vitor\Desktop\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Vitor\Desktop\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Vitor\Desktop\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Vitor\Desktop\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Vitor\Desktop\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Vitor\Desktop\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Vitor\Desktop\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Vitor\Desktop\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Vitor\Desktop\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Vitor\Desktop\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Vitor\Desktop\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Vitor\Desktop\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Vitor\Desktop\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Vitor\Desktop\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Vitor\Desktop\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Vitor\Desktop\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Vitor\Desktop\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Vitor\Desktop\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Vitor\Desktop\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Vitor\Desktop\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Vitor\Desktop\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Vitor\Desktop\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Vitor\Desktop\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Vitor\Desktop\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Vitor\Desktop\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Vitor\Desktop\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Vitor\Desktop\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Vitor\Desktop\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Vitor\Desktop\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Vitor\Desktop\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Vitor\Desktop\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Vitor\Desktop\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Vitor\Desktop\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Vitor\Desktop\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Vitor\Desktop\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Vitor\Desktop\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Vitor\Desktop\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Vitor\Desktop\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Vitor\Desktop\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Vitor\Desktop\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Vitor\Desktop\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Vitor\Desktop\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Vitor\Desktop\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Vitor\Desktop\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Vitor\Desktop\Teste Discursivas\Relatorio\PrototipoRelatorio\obj\Debug\PrototipoRelatorio.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\Desktop\Teste Discursivas\Relatorio\PrototipoRelatorio\obj\Debug\PrototipoRelatorio.csproj.CopyComplete
+C:\Users\Vitor\Desktop\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Vitor\Desktop\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\itextsharp.dll
+C:\Users\Vitor\Desktop\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\itextsharp.xml
+C:\Users\Vitor\Desktop\Nova pasta (2)\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Vitor\Desktop\Nova pasta (2)\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Vitor\Desktop\Nova pasta (2)\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Vitor\Desktop\Nova pasta (2)\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Vitor\Desktop\Nova pasta (2)\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\PrototipoRelatorio.exe.config
+C:\Users\Vitor\Desktop\Nova pasta (2)\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\PrototipoRelatorio.exe
+C:\Users\Vitor\Desktop\Nova pasta (2)\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\PrototipoRelatorio.pdb
+C:\Users\Vitor\Desktop\Nova pasta (2)\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Vitor\Desktop\Nova pasta (2)\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\itextsharp.dll
+C:\Users\Vitor\Desktop\Nova pasta (2)\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Vitor\Desktop\Nova pasta (2)\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Vitor\Desktop\Nova pasta (2)\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Vitor\Desktop\Nova pasta (2)\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Vitor\Desktop\Nova pasta (2)\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Vitor\Desktop\Nova pasta (2)\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Vitor\Desktop\Nova pasta (2)\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\EnvDTE.dll
+C:\Users\Vitor\Desktop\Nova pasta (2)\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Vitor\Desktop\Nova pasta (2)\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Vitor\Desktop\Nova pasta (2)\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\stdole.dll
+C:\Users\Vitor\Desktop\Nova pasta (2)\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Vitor\Desktop\Nova pasta (2)\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Vitor\Desktop\Nova pasta (2)\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Vitor\Desktop\Nova pasta (2)\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Vitor\Desktop\Nova pasta (2)\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\itextsharp.xml
+C:\Users\Vitor\Desktop\Nova pasta (2)\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Vitor\Desktop\Nova pasta (2)\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Vitor\Desktop\Nova pasta (2)\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Vitor\Desktop\Nova pasta (2)\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Vitor\Desktop\Nova pasta (2)\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Vitor\Desktop\Nova pasta (2)\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Vitor\Desktop\Nova pasta (2)\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Vitor\Desktop\Nova pasta (2)\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Vitor\Desktop\Nova pasta (2)\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Vitor\Desktop\Nova pasta (2)\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Vitor\Desktop\Nova pasta (2)\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Vitor\Desktop\Nova pasta (2)\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Vitor\Desktop\Nova pasta (2)\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Vitor\Desktop\Nova pasta (2)\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Vitor\Desktop\Nova pasta (2)\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Vitor\Desktop\Nova pasta (2)\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Vitor\Desktop\Nova pasta (2)\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Vitor\Desktop\Nova pasta (2)\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Vitor\Desktop\Nova pasta (2)\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Vitor\Desktop\Nova pasta (2)\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Vitor\Desktop\Nova pasta (2)\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Vitor\Desktop\Nova pasta (2)\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Vitor\Desktop\Nova pasta (2)\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Vitor\Desktop\Nova pasta (2)\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Vitor\Desktop\Nova pasta (2)\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Vitor\Desktop\Nova pasta (2)\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Vitor\Desktop\Nova pasta (2)\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Vitor\Desktop\Nova pasta (2)\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Vitor\Desktop\Nova pasta (2)\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Vitor\Desktop\Nova pasta (2)\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Vitor\Desktop\Nova pasta (2)\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Vitor\Desktop\Nova pasta (2)\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Vitor\Desktop\Nova pasta (2)\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Vitor\Desktop\Nova pasta (2)\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Vitor\Desktop\Nova pasta (2)\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Vitor\Desktop\Nova pasta (2)\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Vitor\Desktop\Nova pasta (2)\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Vitor\Desktop\Nova pasta (2)\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Vitor\Desktop\Nova pasta (2)\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Vitor\Desktop\Nova pasta (2)\Teste Discursivas\Relatorio\PrototipoRelatorio\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Vitor\Desktop\Nova pasta (2)\Teste Discursivas\Relatorio\PrototipoRelatorio\obj\Debug\PrototipoRelatorio.csprojAssemblyReference.cache
+C:\Users\Vitor\Desktop\Nova pasta (2)\Teste Discursivas\Relatorio\PrototipoRelatorio\obj\Debug\PrototipoRelatorio.Form1.resources
+C:\Users\Vitor\Desktop\Nova pasta (2)\Teste Discursivas\Relatorio\PrototipoRelatorio\obj\Debug\PrototipoRelatorio.csproj.GenerateResource.cache
+C:\Users\Vitor\Desktop\Nova pasta (2)\Teste Discursivas\Relatorio\PrototipoRelatorio\obj\Debug\RdlCompile.cache
+C:\Users\Vitor\Desktop\Nova pasta (2)\Teste Discursivas\Relatorio\PrototipoRelatorio\obj\Debug\RdlCompile.compiled
+C:\Users\Vitor\Desktop\Nova pasta (2)\Teste Discursivas\Relatorio\PrototipoRelatorio\obj\Debug\PrototipoRelatorio.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\Desktop\Nova pasta (2)\Teste Discursivas\Relatorio\PrototipoRelatorio\obj\Debug\PrototipoRelatorio.csproj.CopyComplete
+C:\Users\Vitor\Desktop\Nova pasta (2)\Teste Discursivas\Relatorio\PrototipoRelatorio\obj\Debug\PrototipoRelatorio.exe
+C:\Users\Vitor\Desktop\Nova pasta (2)\Teste Discursivas\Relatorio\PrototipoRelatorio\obj\Debug\PrototipoRelatorio.pdb
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20\Relatorio\PrototipoRelatorio\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20\Relatorio\PrototipoRelatorio\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20\Relatorio\PrototipoRelatorio\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20\Relatorio\PrototipoRelatorio\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20\Relatorio\PrototipoRelatorio\bin\Debug\PrototipoRelatorio.exe.config
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20\Relatorio\PrototipoRelatorio\bin\Debug\PrototipoRelatorio.exe
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20\Relatorio\PrototipoRelatorio\bin\Debug\PrototipoRelatorio.pdb
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20\Relatorio\PrototipoRelatorio\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20\Relatorio\PrototipoRelatorio\bin\Debug\itextsharp.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20\Relatorio\PrototipoRelatorio\bin\Debug\EnvDTE.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20\Relatorio\PrototipoRelatorio\bin\Debug\stdole.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.MSXML.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20\Relatorio\PrototipoRelatorio\bin\Debug\itextsharp.xml
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20\Relatorio\PrototipoRelatorio\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20\Relatorio\PrototipoRelatorio\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20\Relatorio\PrototipoRelatorio\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20\Relatorio\PrototipoRelatorio\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20\Relatorio\PrototipoRelatorio\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20\Relatorio\PrototipoRelatorio\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20\Relatorio\PrototipoRelatorio\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20\Relatorio\PrototipoRelatorio\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20\Relatorio\PrototipoRelatorio\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20\Relatorio\PrototipoRelatorio\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20\Relatorio\PrototipoRelatorio\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20\Relatorio\PrototipoRelatorio\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20\Relatorio\PrototipoRelatorio\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20\Relatorio\PrototipoRelatorio\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20\Relatorio\PrototipoRelatorio\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20\Relatorio\PrototipoRelatorio\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20\Relatorio\PrototipoRelatorio\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20\Relatorio\PrototipoRelatorio\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20\Relatorio\PrototipoRelatorio\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20\Relatorio\PrototipoRelatorio\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20\Relatorio\PrototipoRelatorio\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20\Relatorio\PrototipoRelatorio\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20\Relatorio\PrototipoRelatorio\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20\Relatorio\PrototipoRelatorio\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20\Relatorio\PrototipoRelatorio\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20\Relatorio\PrototipoRelatorio\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20\Relatorio\PrototipoRelatorio\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20\Relatorio\PrototipoRelatorio\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20\Relatorio\PrototipoRelatorio\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20\Relatorio\PrototipoRelatorio\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20\Relatorio\PrototipoRelatorio\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20\Relatorio\PrototipoRelatorio\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20\Relatorio\PrototipoRelatorio\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20\Relatorio\PrototipoRelatorio\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20\Relatorio\PrototipoRelatorio\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20\Relatorio\PrototipoRelatorio\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20\Relatorio\PrototipoRelatorio\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20\Relatorio\PrototipoRelatorio\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20\Relatorio\PrototipoRelatorio\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20\Relatorio\PrototipoRelatorio\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20\Relatorio\PrototipoRelatorio\obj\Debug\PrototipoRelatorio.csprojAssemblyReference.cache
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20\Relatorio\PrototipoRelatorio\obj\Debug\PrototipoRelatorio.Form1.resources
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20\Relatorio\PrototipoRelatorio\obj\Debug\PrototipoRelatorio.csproj.GenerateResource.cache
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20\Relatorio\PrototipoRelatorio\obj\Debug\RdlCompile.cache
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20\Relatorio\PrototipoRelatorio\obj\Debug\RdlCompile.compiled
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20\Relatorio\PrototipoRelatorio\obj\Debug\PrototipoRelatorio.csproj.CoreCompileInputs.cache
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20\Relatorio\PrototipoRelatorio\obj\Debug\PrototipoRelatorio.csproj.CopyComplete
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20\Relatorio\PrototipoRelatorio\obj\Debug\PrototipoRelatorio.exe
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20\Relatorio\PrototipoRelatorio\obj\Debug\PrototipoRelatorio.pdb
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20-novo\Relatorio\PrototipoRelatorio\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20-novo\Relatorio\PrototipoRelatorio\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20-novo\Relatorio\PrototipoRelatorio\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20-novo\Relatorio\PrototipoRelatorio\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20-novo\Relatorio\PrototipoRelatorio\bin\Debug\PrototipoRelatorio.exe.config
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20-novo\Relatorio\PrototipoRelatorio\bin\Debug\PrototipoRelatorio.exe
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20-novo\Relatorio\PrototipoRelatorio\bin\Debug\PrototipoRelatorio.pdb
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20-novo\Relatorio\PrototipoRelatorio\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20-novo\Relatorio\PrototipoRelatorio\bin\Debug\itextsharp.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20-novo\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20-novo\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20-novo\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20-novo\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20-novo\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20-novo\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20-novo\Relatorio\PrototipoRelatorio\bin\Debug\EnvDTE.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20-novo\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20-novo\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20-novo\Relatorio\PrototipoRelatorio\bin\Debug\stdole.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20-novo\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20-novo\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20-novo\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20-novo\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.MSXML.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20-novo\Relatorio\PrototipoRelatorio\bin\Debug\itextsharp.xml
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20-novo\Relatorio\PrototipoRelatorio\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20-novo\Relatorio\PrototipoRelatorio\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20-novo\Relatorio\PrototipoRelatorio\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20-novo\Relatorio\PrototipoRelatorio\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20-novo\Relatorio\PrototipoRelatorio\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20-novo\Relatorio\PrototipoRelatorio\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20-novo\Relatorio\PrototipoRelatorio\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20-novo\Relatorio\PrototipoRelatorio\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20-novo\Relatorio\PrototipoRelatorio\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20-novo\Relatorio\PrototipoRelatorio\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20-novo\Relatorio\PrototipoRelatorio\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20-novo\Relatorio\PrototipoRelatorio\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20-novo\Relatorio\PrototipoRelatorio\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20-novo\Relatorio\PrototipoRelatorio\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20-novo\Relatorio\PrototipoRelatorio\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20-novo\Relatorio\PrototipoRelatorio\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20-novo\Relatorio\PrototipoRelatorio\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20-novo\Relatorio\PrototipoRelatorio\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20-novo\Relatorio\PrototipoRelatorio\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20-novo\Relatorio\PrototipoRelatorio\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20-novo\Relatorio\PrototipoRelatorio\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20-novo\Relatorio\PrototipoRelatorio\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20-novo\Relatorio\PrototipoRelatorio\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20-novo\Relatorio\PrototipoRelatorio\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20-novo\Relatorio\PrototipoRelatorio\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20-novo\Relatorio\PrototipoRelatorio\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20-novo\Relatorio\PrototipoRelatorio\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20-novo\Relatorio\PrototipoRelatorio\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20-novo\Relatorio\PrototipoRelatorio\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20-novo\Relatorio\PrototipoRelatorio\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20-novo\Relatorio\PrototipoRelatorio\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20-novo\Relatorio\PrototipoRelatorio\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20-novo\Relatorio\PrototipoRelatorio\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20-novo\Relatorio\PrototipoRelatorio\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20-novo\Relatorio\PrototipoRelatorio\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20-novo\Relatorio\PrototipoRelatorio\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20-novo\Relatorio\PrototipoRelatorio\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20-novo\Relatorio\PrototipoRelatorio\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20-novo\Relatorio\PrototipoRelatorio\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20-novo\Relatorio\PrototipoRelatorio\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20-novo\Relatorio\PrototipoRelatorio\obj\Debug\PrototipoRelatorio.csprojAssemblyReference.cache
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20-novo\Relatorio\PrototipoRelatorio\obj\Debug\PrototipoRelatorio.Form1.resources
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20-novo\Relatorio\PrototipoRelatorio\obj\Debug\PrototipoRelatorio.csproj.GenerateResource.cache
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20-novo\Relatorio\PrototipoRelatorio\obj\Debug\RdlCompile.cache
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20-novo\Relatorio\PrototipoRelatorio\obj\Debug\RdlCompile.compiled
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20-novo\Relatorio\PrototipoRelatorio\obj\Debug\PrototipoRelatorio.csproj.CoreCompileInputs.cache
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20-novo\Relatorio\PrototipoRelatorio\obj\Debug\PrototipoRelatorio.csproj.CopyComplete
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20-novo\Relatorio\PrototipoRelatorio\obj\Debug\PrototipoRelatorio.exe
+C:\Users\vitor.pinto\Downloads\Teste Discursivas 06-11-20-novo\Relatorio\PrototipoRelatorio\obj\Debug\PrototipoRelatorio.pdb
+C:\Users\vitor.pinto\Desktop\Projetos\Teste Discursivas 13-11-20\Relatorio\PrototipoRelatorio\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\vitor.pinto\Desktop\Projetos\Teste Discursivas 13-11-20\Relatorio\PrototipoRelatorio\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\vitor.pinto\Desktop\Projetos\Teste Discursivas 13-11-20\Relatorio\PrototipoRelatorio\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\vitor.pinto\Desktop\Projetos\Teste Discursivas 13-11-20\Relatorio\PrototipoRelatorio\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\vitor.pinto\Desktop\Projetos\Teste Discursivas 13-11-20\Relatorio\PrototipoRelatorio\bin\Debug\PrototipoRelatorio.exe.config
+C:\Users\vitor.pinto\Desktop\Projetos\Teste Discursivas 13-11-20\Relatorio\PrototipoRelatorio\bin\Debug\PrototipoRelatorio.exe
+C:\Users\vitor.pinto\Desktop\Projetos\Teste Discursivas 13-11-20\Relatorio\PrototipoRelatorio\bin\Debug\PrototipoRelatorio.pdb
+C:\Users\vitor.pinto\Desktop\Projetos\Teste Discursivas 13-11-20\Relatorio\PrototipoRelatorio\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\vitor.pinto\Desktop\Projetos\Teste Discursivas 13-11-20\Relatorio\PrototipoRelatorio\bin\Debug\itextsharp.dll
+C:\Users\vitor.pinto\Desktop\Projetos\Teste Discursivas 13-11-20\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\vitor.pinto\Desktop\Projetos\Teste Discursivas 13-11-20\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\vitor.pinto\Desktop\Projetos\Teste Discursivas 13-11-20\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\vitor.pinto\Desktop\Projetos\Teste Discursivas 13-11-20\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\vitor.pinto\Desktop\Projetos\Teste Discursivas 13-11-20\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\vitor.pinto\Desktop\Projetos\Teste Discursivas 13-11-20\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\vitor.pinto\Desktop\Projetos\Teste Discursivas 13-11-20\Relatorio\PrototipoRelatorio\bin\Debug\EnvDTE.dll
+C:\Users\vitor.pinto\Desktop\Projetos\Teste Discursivas 13-11-20\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\vitor.pinto\Desktop\Projetos\Teste Discursivas 13-11-20\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\vitor.pinto\Desktop\Projetos\Teste Discursivas 13-11-20\Relatorio\PrototipoRelatorio\bin\Debug\stdole.dll
+C:\Users\vitor.pinto\Desktop\Projetos\Teste Discursivas 13-11-20\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\vitor.pinto\Desktop\Projetos\Teste Discursivas 13-11-20\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\vitor.pinto\Desktop\Projetos\Teste Discursivas 13-11-20\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\vitor.pinto\Desktop\Projetos\Teste Discursivas 13-11-20\Relatorio\PrototipoRelatorio\bin\Debug\Microsoft.MSXML.dll
+C:\Users\vitor.pinto\Desktop\Projetos\Teste Discursivas 13-11-20\Relatorio\PrototipoRelatorio\bin\Debug\itextsharp.xml
+C:\Users\vitor.pinto\Desktop\Projetos\Teste Discursivas 13-11-20\Relatorio\PrototipoRelatorio\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vitor.pinto\Desktop\Projetos\Teste Discursivas 13-11-20\Relatorio\PrototipoRelatorio\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vitor.pinto\Desktop\Projetos\Teste Discursivas 13-11-20\Relatorio\PrototipoRelatorio\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vitor.pinto\Desktop\Projetos\Teste Discursivas 13-11-20\Relatorio\PrototipoRelatorio\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vitor.pinto\Desktop\Projetos\Teste Discursivas 13-11-20\Relatorio\PrototipoRelatorio\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vitor.pinto\Desktop\Projetos\Teste Discursivas 13-11-20\Relatorio\PrototipoRelatorio\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vitor.pinto\Desktop\Projetos\Teste Discursivas 13-11-20\Relatorio\PrototipoRelatorio\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vitor.pinto\Desktop\Projetos\Teste Discursivas 13-11-20\Relatorio\PrototipoRelatorio\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vitor.pinto\Desktop\Projetos\Teste Discursivas 13-11-20\Relatorio\PrototipoRelatorio\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vitor.pinto\Desktop\Projetos\Teste Discursivas 13-11-20\Relatorio\PrototipoRelatorio\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vitor.pinto\Desktop\Projetos\Teste Discursivas 13-11-20\Relatorio\PrototipoRelatorio\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vitor.pinto\Desktop\Projetos\Teste Discursivas 13-11-20\Relatorio\PrototipoRelatorio\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vitor.pinto\Desktop\Projetos\Teste Discursivas 13-11-20\Relatorio\PrototipoRelatorio\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vitor.pinto\Desktop\Projetos\Teste Discursivas 13-11-20\Relatorio\PrototipoRelatorio\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vitor.pinto\Desktop\Projetos\Teste Discursivas 13-11-20\Relatorio\PrototipoRelatorio\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vitor.pinto\Desktop\Projetos\Teste Discursivas 13-11-20\Relatorio\PrototipoRelatorio\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vitor.pinto\Desktop\Projetos\Teste Discursivas 13-11-20\Relatorio\PrototipoRelatorio\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vitor.pinto\Desktop\Projetos\Teste Discursivas 13-11-20\Relatorio\PrototipoRelatorio\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vitor.pinto\Desktop\Projetos\Teste Discursivas 13-11-20\Relatorio\PrototipoRelatorio\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vitor.pinto\Desktop\Projetos\Teste Discursivas 13-11-20\Relatorio\PrototipoRelatorio\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vitor.pinto\Desktop\Projetos\Teste Discursivas 13-11-20\Relatorio\PrototipoRelatorio\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vitor.pinto\Desktop\Projetos\Teste Discursivas 13-11-20\Relatorio\PrototipoRelatorio\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vitor.pinto\Desktop\Projetos\Teste Discursivas 13-11-20\Relatorio\PrototipoRelatorio\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vitor.pinto\Desktop\Projetos\Teste Discursivas 13-11-20\Relatorio\PrototipoRelatorio\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vitor.pinto\Desktop\Projetos\Teste Discursivas 13-11-20\Relatorio\PrototipoRelatorio\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vitor.pinto\Desktop\Projetos\Teste Discursivas 13-11-20\Relatorio\PrototipoRelatorio\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vitor.pinto\Desktop\Projetos\Teste Discursivas 13-11-20\Relatorio\PrototipoRelatorio\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vitor.pinto\Desktop\Projetos\Teste Discursivas 13-11-20\Relatorio\PrototipoRelatorio\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vitor.pinto\Desktop\Projetos\Teste Discursivas 13-11-20\Relatorio\PrototipoRelatorio\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vitor.pinto\Desktop\Projetos\Teste Discursivas 13-11-20\Relatorio\PrototipoRelatorio\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vitor.pinto\Desktop\Projetos\Teste Discursivas 13-11-20\Relatorio\PrototipoRelatorio\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vitor.pinto\Desktop\Projetos\Teste Discursivas 13-11-20\Relatorio\PrototipoRelatorio\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vitor.pinto\Desktop\Projetos\Teste Discursivas 13-11-20\Relatorio\PrototipoRelatorio\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vitor.pinto\Desktop\Projetos\Teste Discursivas 13-11-20\Relatorio\PrototipoRelatorio\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vitor.pinto\Desktop\Projetos\Teste Discursivas 13-11-20\Relatorio\PrototipoRelatorio\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vitor.pinto\Desktop\Projetos\Teste Discursivas 13-11-20\Relatorio\PrototipoRelatorio\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vitor.pinto\Desktop\Projetos\Teste Discursivas 13-11-20\Relatorio\PrototipoRelatorio\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vitor.pinto\Desktop\Projetos\Teste Discursivas 13-11-20\Relatorio\PrototipoRelatorio\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vitor.pinto\Desktop\Projetos\Teste Discursivas 13-11-20\Relatorio\PrototipoRelatorio\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vitor.pinto\Desktop\Projetos\Teste Discursivas 13-11-20\Relatorio\PrototipoRelatorio\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vitor.pinto\Desktop\Projetos\Teste Discursivas 13-11-20\Relatorio\PrototipoRelatorio\obj\Debug\PrototipoRelatorio.csprojAssemblyReference.cache
+C:\Users\vitor.pinto\Desktop\Projetos\Teste Discursivas 13-11-20\Relatorio\PrototipoRelatorio\obj\Debug\PrototipoRelatorio.Form1.resources
+C:\Users\vitor.pinto\Desktop\Projetos\Teste Discursivas 13-11-20\Relatorio\PrototipoRelatorio\obj\Debug\PrototipoRelatorio.csproj.GenerateResource.cache
+C:\Users\vitor.pinto\Desktop\Projetos\Teste Discursivas 13-11-20\Relatorio\PrototipoRelatorio\obj\Debug\RdlCompile.cache
+C:\Users\vitor.pinto\Desktop\Projetos\Teste Discursivas 13-11-20\Relatorio\PrototipoRelatorio\obj\Debug\RdlCompile.compiled
+C:\Users\vitor.pinto\Desktop\Projetos\Teste Discursivas 13-11-20\Relatorio\PrototipoRelatorio\obj\Debug\PrototipoRelatorio.csproj.CoreCompileInputs.cache
+C:\Users\vitor.pinto\Desktop\Projetos\Teste Discursivas 13-11-20\Relatorio\PrototipoRelatorio\obj\Debug\PrototipoRelatorio.csproj.CopyComplete
+C:\Users\vitor.pinto\Desktop\Projetos\Teste Discursivas 13-11-20\Relatorio\PrototipoRelatorio\obj\Debug\PrototipoRelatorio.exe
+C:\Users\vitor.pinto\Desktop\Projetos\Teste Discursivas 13-11-20\Relatorio\PrototipoRelatorio\obj\Debug\PrototipoRelatorio.pdb
