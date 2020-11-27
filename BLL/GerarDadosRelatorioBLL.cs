@@ -97,6 +97,66 @@ namespace PrototipoRelatorio.BLL
             }
 
         }
+        public List<CoordenadorModel> ListaCoordenador()
+        {
+            List<CoordenadorModel> lista = new List<CoordenadorModel>();
+
+            string query = @"SELECT id,nome_coordenador,nome
+                             FROM curso";
+
+            try
+            {
+                dr = consultas.DadosdoRelatorio(query);
+                while (dr.Read())
+                {
+                    lista.Add(new CoordenadorModel
+                    {
+                        IdCurso = dr.GetInt32(0),
+                        NomeCoordenador = dr.GetString(1).Trim(),
+                        NomeCurso = dr.GetString(2).Trim()
+                        
+                    });
+                }
+                return lista;
+            }
+            catch (Exception e)
+            {
+                return null;
+            }
+
+        }
+        public List<CoordenadorModel> ListaQuestoesCoordenador()
+        {
+            List<CoordenadorModel> lista = new List<CoordenadorModel>();
+
+            string query = @"select  q.texto, m.media, m.id_curso, m.qtd_avaliacoes
+                                from media_questao_coord m
+                                join curso c on c.id = m.id_curso
+                                join questoes_coordenador q on 
+                                q.id = m.id_questao";
+
+            try
+            {
+                dr = consultas.DadosdoRelatorio(query);
+                while (dr.Read())
+                {
+                    lista.Add(new CoordenadorModel
+                    {
+                        Questao = dr.GetString(0).Trim(),
+                        MediaQuestao = dr.GetDouble(1),
+                        IdCurso = dr.GetInt32(2),
+                        QtdAvaliacoes = dr.GetInt32(3)
+
+                    });
+                }
+                return lista;
+            }
+            catch (Exception e)
+            {
+                return null;
+            }
+
+        }
         public List<DocenteXdocenteModelSubReportModel> ListaDocenteXdocenteMasterReport()
         {
             List<DocenteXdocenteModelSubReportModel> lista = new List<DocenteXdocenteModelSubReportModel>();
