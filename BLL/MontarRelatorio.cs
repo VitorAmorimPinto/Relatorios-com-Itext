@@ -12,7 +12,7 @@ namespace PrototipoRelatorio.BLL
 {
    public class MontarRelatorio
     {
-        public void cabecalho(Document doc, PdfWriter writer)
+        public void cabecalho(Document doc, PdfWriter writer,int op)
         {
            //Escolha das cores
             BaseColor preto = new BaseColor(0, 0, 0);
@@ -27,8 +27,7 @@ namespace PrototipoRelatorio.BLL
             Paragraph p = new Paragraph();
             p.Add(" ");
             //Logo da Empresa
-            #region Logo Empresa
-
+            //Diretório da imagem            
             string DiretorioImg = @"C:\Users\vitor.pinto\Desktop\Projetos\Teste Discursivas 13-11-20\Relatorio\PrototipoRelatorio\img\Logo-UniSales_Vertical.png";
             Image foot = Image.GetInstance(DiretorioImg);
             foot.ScaleAbsolute(60, 40);
@@ -47,7 +46,19 @@ namespace PrototipoRelatorio.BLL
             cell.Border = 0;
             cell.HorizontalAlignment = Element.ALIGN_CENTER;
             micros.AddCell(cell);
-            cell = new PdfPCell(new Phrase("Avaliação dos Coordenadores", titulo));
+            switch (op)
+            {
+                case  1 :
+                    cell = new PdfPCell(new Phrase("Avaliação dos Coordenadores", titulo));
+                    break;
+                case 2:
+                    cell = new PdfPCell(new Phrase("Avaliação dos Professores", titulo));
+                    break;
+                default:
+
+                    break;
+            }
+           
             cell.Border = 0;
             cell.HorizontalAlignment = Element.ALIGN_CENTER;
             micros.AddCell(cell);
@@ -59,7 +70,7 @@ namespace PrototipoRelatorio.BLL
             cell.BorderWidthBottom = 1.5f;
             cell.PaddingTop = 10f;
             table.AddCell(cell);
-            #endregion
+          
 
             #region Página
             micros = new PdfPTable(1);
@@ -80,7 +91,7 @@ namespace PrototipoRelatorio.BLL
             table.WriteSelectedRows(0, -1, doc.LeftMargin, (doc.PageSize.Height - 10), writer.DirectContent);
 
         }
-        public void corpoRelatorio()
+        public void RelatorioCoordenadores()
         {
             var Coordenadores = new GerarDadosRelatorioBLL().ListaCoordenador();
             var QuestoesCoordenadores = new GerarDadosRelatorioBLL().ListaQuestoesCoordenador();
@@ -98,7 +109,7 @@ namespace PrototipoRelatorio.BLL
                 Paragraph p = new Paragraph();
                 p.Add(" ");
                 // Cabeçalho
-               cabecalho(doc, writer);
+               cabecalho(doc, writer,1);
                 //Corpo do Relatório
                 BaseFont bf = BaseFont.CreateFont(
                             BaseFont.TIMES_ROMAN,
@@ -184,6 +195,150 @@ namespace PrototipoRelatorio.BLL
                 doc.Add(tableDiscursivas);
 
 
+                doc.Close();
+
+
+            }
+        }
+        public void RelatorioProfessores()
+        {
+            var DadosDiscursiva = new GerarDadosRelatorioBLL().ListaDicenteXdocenteSubReportDiscursiva();
+            var Professores = new GerarDadosRelatorioBLL().ListaDocenteXdocenteMasterReport();
+            var DadosObjetivas = new GerarDadosRelatorioBLL().ListaDicenteXdocenteSubReport();
+            CultureInfo cultureInfo = Thread.CurrentThread.CurrentCulture;
+            TextInfo textInfo = cultureInfo.TextInfo;
+            foreach (var item in Professores)
+            {
+               
+                int count = 0;
+                var curso = item.DescricaoCurso.Replace(':', ' ').
+                                                Replace('|', ' ').
+                                                Replace('?', ' ').
+                                                Replace('<', ' ').
+                                                Replace('>', ' ').
+                                                Replace('*', ' ').
+                                                Replace(':', ' ').
+                                                Replace('“', ' ').
+                                                Replace('/', '-');
+
+                var disciplina = item.DescricaoDisciplina.Replace(':', ' ').
+                                                            Replace('|', ' ').
+                                                            Replace('?', ' ').
+                                                            Replace('<', ' ').
+                                                            Replace('>', ' ').
+                                                            Replace('*', ' ').
+                                                            Replace(':', ' ').
+                                                            Replace('“', ' ').
+                                                            Replace('/', '-');
+
+                Document doc = new Document(PageSize.A4);
+                doc.SetMargins(3, 2, 3, 2);
+                string NomeArquivo = item.NomeProfessor + "-" + curso + "-" + disciplina + "-" + item.IdTurma;
+                string caminho = @"C:\pdf\" + NomeArquivo + ".pdf";
+
+                PdfWriter writer = PdfWriter.GetInstance(doc, new FileStream(caminho, FileMode.Create));
+
+                BaseFont bf = BaseFont.CreateFont(
+                       BaseFont.TIMES_ROMAN,
+                       BaseFont.CP1252,
+                       BaseFont.EMBEDDED);
+                Font font = new Font(bf, 10);
+                BaseFont bf2 = BaseFont.CreateFont(
+                      BaseFont.TIMES_ROMAN,
+                      BaseFont.CP1252,
+                      BaseFont.EMBEDDED);
+                Font font2 = new Font(bf2, 11);
+                doc.Open();
+                Paragraph p = new Paragraph();
+                p.Add(" ");
+
+                
+                //Cabeçalho relatório
+                cabecalho(doc, writer, 2);
+                doc.Add(p);
+                doc.Add(p);
+                doc.Add(p);
+                doc.Add(p);
+                doc.Add(p);
+
+                PdfPTable tableCabecalho = new PdfPTable(2);
+                tableCabecalho.TotalWidth = 450f;
+                tableCabecalho.LockedWidth = true;
+                tableCabecalho.AddCell(new PdfPCell(new Phrase("Professor", font2)));
+                tableCabecalho.AddCell(new PdfPCell(new Phrase(item.NomeProfessor, font)));
+                tableCabecalho.AddCell(new PdfPCell(new Phrase("Disciplina", font2)));
+                tableCabecalho.AddCell(new PdfPCell(new Phrase(item.DescricaoDisciplina, font)));
+                tableCabecalho.AddCell(new PdfPCell(new Phrase("Turma", font2)));
+                tableCabecalho.AddCell(new PdfPCell(new Phrase(item.IdTurma, font)));
+
+                doc.Add(tableCabecalho);
+                
+
+                doc.Add(p);
+
+                PdfPTable tableObjetivas = new PdfPTable(5);
+                tableObjetivas.TotalWidth = 450f;
+                tableObjetivas.LockedWidth = true;
+                tableObjetivas.HorizontalAlignment = PdfPCell.ALIGN_CENTER;
+                tableObjetivas.AddCell(new PdfPCell(new Phrase("Descrição Questão", font2)));
+                tableObjetivas.AddCell(new PdfPCell(new Phrase("Média Docente", font2)));
+                tableObjetivas.AddCell(new PdfPCell(new Phrase("Média Curso", font2)));
+                tableObjetivas.AddCell(new PdfPCell(new Phrase("Média Geral", font2)));
+                tableObjetivas.AddCell(new PdfPCell(new Phrase("Respondentes", font2)));
+                double MediaDoc = 0;
+                double MediaCurs = 0;
+                double MediaGeral = 0;
+                int CountQuest = 0;
+                foreach (var it in DadosObjetivas)
+                {
+                    if ((item.IdDisciplina == it.IdDisciplina) && (item.IdProfessor == it.IdProfessor) && (item.IdTurma == it.IdTurma) && (item.IdCurso == it.IdCurso))
+                    {
+                        CountQuest++;
+                        MediaDoc = MediaDoc + it.MediaDocente;
+                        MediaCurs = MediaCurs + it.MediaQuestaoDiciplina;
+                        MediaGeral = MediaGeral + it.MediaQuestao;
+                        tableObjetivas.AddCell(new PdfPCell(new Phrase(it.DescricaoQuestao, font)));
+                        tableObjetivas.AddCell(new PdfPCell(new Phrase(it.MediaDocente.ToString("N2"), font)));
+                        tableObjetivas.AddCell(new PdfPCell(new Phrase(it.MediaQuestaoDiciplina.ToString("N2"), font)));
+                        tableObjetivas.AddCell(new PdfPCell(new Phrase(it.MediaQuestao.ToString("N2"), font)));
+                        tableObjetivas.AddCell(new PdfPCell(new Phrase(it.QuantAvaliacoes.ToString(), font)));
+                    }
+
+                }
+                MediaDoc = MediaDoc / CountQuest;
+                MediaCurs = MediaCurs / CountQuest;
+                MediaGeral = MediaGeral / CountQuest;
+                tableObjetivas.AddCell(new PdfPCell(new Phrase("Total", font2)));
+                tableObjetivas.AddCell(new PdfPCell(new Phrase(MediaDoc.ToString("N2"), font)));
+                tableObjetivas.AddCell(new PdfPCell(new Phrase(MediaCurs.ToString("N2"), font)));
+                tableObjetivas.AddCell(new PdfPCell(new Phrase(MediaGeral.ToString("N2"), font)));
+                tableObjetivas.AddCell("");
+
+                doc.Add(tableObjetivas);
+                doc.Add(p);
+                doc.Add(p);
+                doc.Add(p);
+                PdfPTable tableDiscursivas = new PdfPTable(1);
+                tableDiscursivas.TotalWidth = 450f;
+                tableDiscursivas.LockedWidth = true;
+                tableDiscursivas.AddCell(new PdfPCell(new Phrase("Respostas Discursivas", font2)));
+                foreach (var itDisc in DadosDiscursiva)
+                {
+
+                    if ((item.IdProfessor == itDisc.IdProfessor) && (item.IdDisciplina == itDisc.IdDisciplina) && (item.IdTurma == itDisc.IdTurma))
+                    {
+                        count++;
+
+                        tableDiscursivas.AddCell(new PdfPCell(new Phrase(textInfo.ToLower(itDisc.RespostaDiscursiva), font)));
+                    }
+
+
+                }
+                if (count == 0)
+                {
+                    tableDiscursivas.AddCell(new PdfPCell(new Phrase("Sem respostas", font)));
+                }
+                doc.Add(tableDiscursivas);
                 doc.Close();
 
 
