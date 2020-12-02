@@ -12,5 +12,6 @@ namespace PrototipoRelatorio.Model
         public string IdDisciplina { get; set; }
         public string RespostaDiscursiva { get; set; }
         public string IdTurma { get; set; }
+        public int IdCurso { get; set; }
     }
 }

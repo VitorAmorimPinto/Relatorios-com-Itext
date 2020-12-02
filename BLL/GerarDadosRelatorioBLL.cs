@@ -21,6 +21,7 @@ namespace PrototipoRelatorio.BLL
         /// Lista para montar o relatorio Discente X Docente por CURSO
         /// </summary>
         /// <returns></returns>
+        //Nao
         public List<DocenteXdocenteModelSubReportModel> ListaDicenteXdocenteSubReport()
         {
             List<DocenteXdocenteModelSubReportModel> lista = new List<DocenteXdocenteModelSubReportModel>();         
@@ -66,6 +67,7 @@ namespace PrototipoRelatorio.BLL
             }
             
         }
+        //Nao 
         public List<QuestoesDiscursivasModel> ListaDicenteXdocenteSubReportDiscursiva()
         {
             List<QuestoesDiscursivasModel> lista = new List<QuestoesDiscursivasModel>();
@@ -97,6 +99,33 @@ namespace PrototipoRelatorio.BLL
             }
 
         }
+        public List<QuestoesDiscursivasModel> DiscursivasCoordenadores()
+        {
+            List<QuestoesDiscursivasModel> lista = new List<QuestoesDiscursivasModel>();
+
+            string query = @" Select id_curso,texto from resposta_discursiva_coordenadores";
+
+            try
+            {
+                dr = consultas.DadosdoRelatorio(query);
+                while (dr.Read())
+                {
+                    lista.Add(new QuestoesDiscursivasModel
+                    {
+                        IdCurso = dr.GetInt32(0),
+                        RespostaDiscursiva = dr.GetString(1).Trim(),
+                        
+                    });
+                }
+                return lista;
+            }
+            catch (Exception e)
+            {
+                return null;
+            }
+
+        }
+        //Nao
         public List<CoordenadorModel> ListaCoordenador()
         {
             List<CoordenadorModel> lista = new List<CoordenadorModel>();
@@ -125,6 +154,7 @@ namespace PrototipoRelatorio.BLL
             }
 
         }
+        //Nao
         public List<CoordenadorModel> ListaQuestoesCoordenador()
         {
             List<CoordenadorModel> lista = new List<CoordenadorModel>();
@@ -157,6 +187,7 @@ namespace PrototipoRelatorio.BLL
             }
 
         }
+        //Nao
         public List<DocenteXdocenteModelSubReportModel> ListaDocenteXdocenteMasterReport()
         {
             List<DocenteXdocenteModelSubReportModel> lista = new List<DocenteXdocenteModelSubReportModel>();
@@ -197,167 +228,5 @@ namespace PrototipoRelatorio.BLL
 
 
         }
-
-        /// <summary>
-        /// Lista para montar o relatorio Lista GERENCIAL NOTAS para DIREÇÃO
-        /// </summary>
-        /// <returns></returns>
-        public List<ProfessorModel> ListaGerencialNotasParaDirecao()
-        {
-            string query = @"SELECT p.nome as NomeProfessor, AVG(m.media)as Media FROM professor as p
-                                        INNER JOIN media_questao_disc_prof as m on m.id_professor = p.id
-                                        GROUP BY p.nome
-                                        ORDER BY Media DESC";
-
-            List<ProfessorModel> lista = new List<ProfessorModel>();
-            try
-            {
-                dr = consultas.DadosdoRelatorio(query);
-
-                while (dr.Read())
-                {
-                    lista.Add(new ProfessorModel
-                    {
-                        Nome = dr.GetString(0),
-                        Media = dr.GetDouble(1)                       
-
-                    });
-                }
-                return lista;
-            }
-            catch(Exception e)
-            {
-                return null;
-            }
-        }
-        /// <summary>
-        /// Lista para montar o relatorio Lista GERENCIAL NOTAS POR CURSO para DIREÇÃO
-        /// </summary>
-        /// <returns></returns>
-        public List<QuetaoCursoModel> ListaGerencialNotasPorCursoDirecao()
-        {
-            int idq = 0;
-            QuetaoCursoModel quetaoCursoModel = null;
-            var lista = new List<QuetaoCursoModel>();
-            string query = @"SELECT distinct q.id,
-                                            q.texto,
-                                            q.media,                                            
-                                            m.media,
-                                            c.id
-                                    FROM questao as q 
-		                            INNER JOIN media_questao_curso as m on m.id_questao = q.id
-		                            INNER JOIN curso as c on c.id = m.id_curso
-		                            ORDER BY  q.texto";
-
-            try
-            {
-                dr = consultas.DadosdoRelatorio(query);
-                while (dr.Read())
-                {
-                    if(dr.GetInt32(0) != idq)
-                    {
-                        idq = dr.GetInt32(0) ;
-                        if (quetaoCursoModel != null)
-                            lista.Add(quetaoCursoModel);
-
-                        quetaoCursoModel = new QuetaoCursoModel();
-                        quetaoCursoModel.NomeQuestao = dr.GetString(1).Trim();
-                        quetaoCursoModel.MediaQuestao = dr.GetDouble(2);
-                    }
-
-                    switch (dr.GetInt32(4))
-                    {
-                        case 1:
-                            quetaoCursoModel.Media_EFL = dr.GetDouble(3);
-                            break;
-                        case 2:
-                            quetaoCursoModel.Media_FIS = dr.GetDouble(3);
-                            break;
-                        case 3:
-                            quetaoCursoModel.Media_NUT = dr.GetDouble(3);
-                            break;
-                        case 4:
-                            quetaoCursoModel.Media_SERV = dr.GetDouble(3);
-                            break;
-                        case 5:
-                            quetaoCursoModel.Media_ENF = dr.GetDouble(3);
-                            break;
-                        case 6:
-                            quetaoCursoModel.Media_FIL = dr.GetDouble(3);
-                            break;
-                        case 7:
-                            quetaoCursoModel.Media_ADM = dr.GetDouble(3);
-                            break;
-                        case 8:
-                            quetaoCursoModel.Media_CBB = dr.GetDouble(3);
-                            break;
-                        case 9:
-                            quetaoCursoModel.Media_CBL = dr.GetDouble(3);
-                            break;
-                        case 10:
-                            quetaoCursoModel.Media_TDS = dr.GetDouble(3);
-                            break;
-                        case 11:
-                            quetaoCursoModel.Media_SI = dr.GetDouble(3);
-                            break;
-                        case 12:
-                            quetaoCursoModel.Media_FAR = dr.GetDouble(3);
-                            break;
-                        case 13:
-                            quetaoCursoModel.Media_PIS = dr.GetDouble(3);
-                            break;
-                        case 14:
-                            quetaoCursoModel.Media_EFB = dr.GetDouble(3);
-                            break;                       
-                        case 16:
-                            quetaoCursoModel.Media_CC = dr.GetDouble(3);
-                            break;
-                        case 17:
-                            quetaoCursoModel.Media_ENGP = dr.GetDouble(3);
-                            break;
-                        case 18:
-                            quetaoCursoModel.Media_AQT = dr.GetDouble(3);
-                            break;
-                        case 19:
-                            quetaoCursoModel.Media_ENGC = dr.GetDouble(3);
-                            break;
-                        case 21:
-                            quetaoCursoModel.Media_DIR = dr.GetDouble(3);
-                            break;
-                        case 23:
-                            quetaoCursoModel.Media_ENGE = dr.GetDouble(3);
-                            break;
-                        case 27:
-                            quetaoCursoModel.Media_FILB = dr.GetDouble(3);
-                            break;
-                        case 28:
-                            quetaoCursoModel.Media_BIO = dr.GetDouble(3);
-                            break;
-
-                    }
-                }
-
-            }
-            catch(Exception e)
-            {
-
-            }
-            return lista;
-        }
-        /// <summary>
-        /// Lista para montar o relatorio GERENCIAL NOTAS POR CURSO para COORDENADOR
-        /// </summary>
-        /// <returns></returns>
-        public List<string> ListaGerencialNotasPorCursoByCoordenador()
-        {
-            var cursos = new List<string>();
-            return cursos;
-        }
-
-        public List<string> ListaGerencialComentarioByDirecao()
-        {
-            return null;
-        }
-
     }
 }

@@ -643,8 +643,6 @@ C:\Users\vitor.pinto\Desktop\Projetos\Teste Discursivas 13-11-20\Relatorio\Proto
 C:\Users\vitor.pinto\Desktop\Projetos\Teste Discursivas 13-11-20\Relatorio\PrototipoRelatorio\obj\Debug\PrototipoRelatorio.csprojAssemblyReference.cache
 C:\Users\vitor.pinto\Desktop\Projetos\Teste Discursivas 13-11-20\Relatorio\PrototipoRelatorio\obj\Debug\PrototipoRelatorio.Form1.resources
 C:\Users\vitor.pinto\Desktop\Projetos\Teste Discursivas 13-11-20\Relatorio\PrototipoRelatorio\obj\Debug\PrototipoRelatorio.csproj.GenerateResource.cache
-C:\Users\vitor.pinto\Desktop\Projetos\Teste Discursivas 13-11-20\Relatorio\PrototipoRelatorio\obj\Debug\RdlCompile.cache
-C:\Users\vitor.pinto\Desktop\Projetos\Teste Discursivas 13-11-20\Relatorio\PrototipoRelatorio\obj\Debug\RdlCompile.compiled
 C:\Users\vitor.pinto\Desktop\Projetos\Teste Discursivas 13-11-20\Relatorio\PrototipoRelatorio\obj\Debug\PrototipoRelatorio.csproj.CoreCompileInputs.cache
 C:\Users\vitor.pinto\Desktop\Projetos\Teste Discursivas 13-11-20\Relatorio\PrototipoRelatorio\obj\Debug\PrototipoRelatorio.csproj.CopyComplete
 C:\Users\vitor.pinto\Desktop\Projetos\Teste Discursivas 13-11-20\Relatorio\PrototipoRelatorio\obj\Debug\PrototipoRelatorio.exe

@@ -21,11 +21,7 @@ namespace PrototipoRelatorio
         }
         public void GeraRelatorio(object sender, System.EventArgs e)
         {
-            string msg = "";
-            var item = this.comboBox1.SelectedValue;
-            RelatorioType.TipoRelatorio tipo = (RelatorioType.TipoRelatorio)item;
-           msg =  new ExportarRelatorio().Relatorio(tipo);
-            MessageBox.Show(msg);
+            
 
         }
     }
