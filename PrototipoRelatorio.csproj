@@ -87,6 +87,7 @@
     <Compile Include="Model\CoordenadorModel.cs" />
     <Compile Include="Model\DocenteXdocenteModel.cs" />
     <Compile Include="Model\DocenteXdocenteModelSubReportModel.cs" />
+    <Compile Include="Model\InfraModel.cs" />
     <Compile Include="Model\ProfessorModel.cs" />
     <Compile Include="Model\QuestoesDiscursivasModel.cs" />
     <Compile Include="Model\QuetaoCursoModel.cs" />

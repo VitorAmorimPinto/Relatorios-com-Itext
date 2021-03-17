@@ -344,6 +344,108 @@ namespace PrototipoRelatorio.BLL
 
             }
         }
+        public void RelatorioInfraEstrutura() 
+        {
+            var Coordenadores = new GerarDadosRelatorioBLL().ListaCoordenador();
+            var QuestoesCoordenadores = new GerarDadosRelatorioBLL().ListaQuestoesCoordenador();
+            var DadosDiscursivas = new GerarDadosRelatorioBLL().DiscursivasCoordenadores();
+            CultureInfo cultureInfo = Thread.CurrentThread.CurrentCulture;
+            TextInfo textInfo = cultureInfo.TextInfo;
+
+            Document doc = new Document(PageSize.A4);
+            doc.SetMargins(3, 2, 3, 2);
+            string NomeArquivo = "Relatório Infraestrutura";
+            string caminho = @"C:\pdf\" + NomeArquivo + ".pdf";
+
+            PdfWriter writer = PdfWriter.GetInstance(doc, new FileStream(caminho, FileMode.Create));
+
+            BaseFont bf = BaseFont.CreateFont(
+                   BaseFont.TIMES_ROMAN,
+                   BaseFont.CP1252,
+                   BaseFont.EMBEDDED);
+            Font font = new Font(bf, 10);
+            BaseFont bf2 = BaseFont.CreateFont(
+                  BaseFont.TIMES_ROMAN,
+                  BaseFont.CP1252,
+                  BaseFont.EMBEDDED);
+            Font font2 = new Font(bf2, 11);
+            doc.Open();
+            Paragraph p = new Paragraph();
+            p.Add(" ");
+
+
+            //Cabeçalho relatório
+            cabecalho(doc, writer, 3);
+            doc.Add(p);
+            doc.Add(p);
+            doc.Add(p);
+            doc.Add(p);
+            doc.Add(p);
+
+            PdfPTable tableObjetivas = new PdfPTable(3);
+            tableObjetivas.TotalWidth = 450f;
+            tableObjetivas.LockedWidth = true;
+            tableObjetivas.HorizontalAlignment = PdfPCell.ALIGN_CENTER;
+            tableObjetivas.AddCell(new PdfPCell(new Phrase("Descrição Questão", font2)));
+            tableObjetivas.AddCell(new PdfPCell(new Phrase("Média Questão", font2)));
+            tableObjetivas.AddCell(new PdfPCell(new Phrase("Respondentes", font2)));
+
+
+            double MediaGeral = 0;
+            int CountQuest = 0;
+            foreach (var QuestCoor in QuestoesCoordenadores)
+            {
+                if ((coordenador.IdCurso == QuestCoor.IdCurso))
+                {
+                    CountQuest++;
+                    MediaGeral = MediaGeral + QuestCoor.MediaQuestao;
+                    tableObjetivas.AddCell(new PdfPCell(new Phrase(QuestCoor.Questao, font1)));
+                    tableObjetivas.AddCell(new PdfPCell(new Phrase(QuestCoor.MediaQuestao.ToString("N2"), font1)));
+                    tableObjetivas.AddCell(new PdfPCell(new Phrase(QuestCoor.QtdAvaliacoes.ToString(), font1)));
+                }
+
+
+
+            }
+            MediaGeral = MediaGeral / CountQuest;
+            tableObjetivas.AddCell(new PdfPCell(new Phrase("Total", font2)));
+            tableObjetivas.AddCell(new PdfPCell(new Phrase(MediaGeral.ToString("N2"), font1)));
+            tableObjetivas.AddCell("");
+            doc.Add(tableObjetivas);
+
+            doc.Add(p);
+            PdfPTable tableDiscursivas = new PdfPTable(1);
+            tableDiscursivas.TotalWidth = 450f;
+            tableDiscursivas.LockedWidth = true;
+            tableDiscursivas.AddCell(new PdfPCell(new Phrase("Respostas Discursivas", font2)));
+            foreach (var itDisc in DadosDiscursivas)
+            {
+
+                if (coordenador.IdCurso == itDisc.IdCurso)
+                {
+                    count++;
+
+                    tableDiscursivas.AddCell(new PdfPCell(new Phrase(textInfo.ToLower(itDisc.RespostaDiscursiva), font1)));
+                }
+
+
+            }
+            if (count == 0)
+            {
+                tableDiscursivas.AddCell(new PdfPCell(new Phrase("Sem respostas", font1)));
+            }
+            doc.Add(tableDiscursivas);
+
+
+            doc.Close();
+
+
+        }
+
+
+
+
+    }
 
     }
 }

@@ -12,7 +12,7 @@ namespace PrototipoRelatorio.Conexao
         SqlConnection con = new SqlConnection();
         public Conexao()
         {
-            con.ConnectionString = @"Data Source=02-FAB-02;Initial Catalog=cpa2020-2;Integrated Security=True";
+            con.ConnectionString = @"Data Source=02-FAB-02;Initial Catalog=cpa_Integrador;Integrated Security=True";
         }
 
         public SqlConnection Conectar()

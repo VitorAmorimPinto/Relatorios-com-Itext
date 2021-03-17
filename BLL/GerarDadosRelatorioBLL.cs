@@ -187,6 +187,34 @@ namespace PrototipoRelatorio.BLL
             }
 
         }
+        public List<InfraModel> ListaQuestoesInfra()
+        {
+            List<InfraModel> lista = new List<InfraModel>();
+
+            string query = @"SELECT qi.texto,mqi.media,mqi.qtd_avaliacoes  FROM media_questao_infraestrutura as mqi
+                                JOIN questoes_infraestrutura as qi on qi.id = mqi.id_questao ;";
+
+            try
+            {
+                dr = consultas.DadosdoRelatorio(query);
+                while (dr.Read())
+                {
+                    lista.Add(new InfraModel
+                    {
+                        Questao = dr.GetString(0).Trim(),
+                        MediaQuestao = dr.GetDouble(1),
+                        QtdAvaliacoes = dr.GetInt32(3)
+
+                    });
+                }
+                return lista;
+            }
+            catch (Exception e)
+            {
+                return null;
+            }
+
+        }
         //Nao
         public List<DocenteXdocenteModelSubReportModel> ListaDocenteXdocenteMasterReport()
         {
