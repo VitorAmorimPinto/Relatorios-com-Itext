@@ -125,6 +125,31 @@ namespace PrototipoRelatorio.BLL
             }
 
         }
+        public List<QuestoesDiscursivasModel> DiscursivasInfra()
+        {
+            List<QuestoesDiscursivasModel> lista = new List<QuestoesDiscursivasModel>();
+
+            string query = @"Select texto from resposta_discursiva_Infra";
+
+            try
+            {
+                dr = consultas.DadosdoRelatorio(query);
+                while (dr.Read())
+                {
+                    lista.Add(new QuestoesDiscursivasModel
+                    {
+                        RespostaDiscursiva = dr.GetString(0).Trim(),
+
+                    });
+                }
+                return lista;
+            }
+            catch (Exception e)
+            {
+                return null;
+            }
+
+        }
         //Nao
         public List<CoordenadorModel> ListaCoordenador()
         {
@@ -191,8 +216,8 @@ namespace PrototipoRelatorio.BLL
         {
             List<InfraModel> lista = new List<InfraModel>();
 
-            string query = @"SELECT qi.texto,mqi.media,mqi.qtd_avaliacoes  FROM media_questao_infraestrutura as mqi
-                                JOIN questoes_infraestrutura as qi on qi.id = mqi.id_questao ;";
+            string query = @"SELECT questoes_infraestrutura.texto,media_questao_infraestrutura.media,media_questao_infraestrutura.qtd_avaliacoes FROM media_questao_infraestrutura
+                                JOIN questoes_infraestrutura on questoes_infraestrutura.id = media_questao_infraestrutura.id_questao";
 
             try
             {

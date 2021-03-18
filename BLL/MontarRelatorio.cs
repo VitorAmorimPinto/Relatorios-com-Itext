@@ -54,6 +54,9 @@ namespace PrototipoRelatorio.BLL
                 case 2:
                     cell = new PdfPCell(new Phrase("Avaliação dos Professores", titulo));
                     break;
+                case 3:
+                    cell = new PdfPCell(new Phrase("Avaliação Infraestrutura", titulo));
+                    break;
                 default:
 
                     break;
@@ -346,11 +349,11 @@ namespace PrototipoRelatorio.BLL
         }
         public void RelatorioInfraEstrutura() 
         {
-            var Coordenadores = new GerarDadosRelatorioBLL().ListaCoordenador();
-            var QuestoesCoordenadores = new GerarDadosRelatorioBLL().ListaQuestoesCoordenador();
-            var DadosDiscursivas = new GerarDadosRelatorioBLL().DiscursivasCoordenadores();
+            var QuestoesInfra = new GerarDadosRelatorioBLL().ListaQuestoesInfra();
+            var DadosDiscursivas = new GerarDadosRelatorioBLL().DiscursivasInfra();
             CultureInfo cultureInfo = Thread.CurrentThread.CurrentCulture;
             TextInfo textInfo = cultureInfo.TextInfo;
+            int count = 0;
 
             Document doc = new Document(PageSize.A4);
             doc.SetMargins(3, 2, 3, 2);
@@ -393,23 +396,18 @@ namespace PrototipoRelatorio.BLL
 
             double MediaGeral = 0;
             int CountQuest = 0;
-            foreach (var QuestCoor in QuestoesCoordenadores)
+            foreach (var QuestInfra in QuestoesInfra)
             {
-                if ((coordenador.IdCurso == QuestCoor.IdCurso))
-                {
                     CountQuest++;
-                    MediaGeral = MediaGeral + QuestCoor.MediaQuestao;
-                    tableObjetivas.AddCell(new PdfPCell(new Phrase(QuestCoor.Questao, font1)));
-                    tableObjetivas.AddCell(new PdfPCell(new Phrase(QuestCoor.MediaQuestao.ToString("N2"), font1)));
-                    tableObjetivas.AddCell(new PdfPCell(new Phrase(QuestCoor.QtdAvaliacoes.ToString(), font1)));
-                }
-
-
+                    MediaGeral = MediaGeral + QuestInfra.MediaQuestao;
+                    tableObjetivas.AddCell(new PdfPCell(new Phrase(QuestInfra.Questao, font)));
+                    tableObjetivas.AddCell(new PdfPCell(new Phrase(QuestInfra.MediaQuestao.ToString("N2"), font)));
+                    tableObjetivas.AddCell(new PdfPCell(new Phrase(QuestInfra.QtdAvaliacoes.ToString(), font)));
 
             }
             MediaGeral = MediaGeral / CountQuest;
             tableObjetivas.AddCell(new PdfPCell(new Phrase("Total", font2)));
-            tableObjetivas.AddCell(new PdfPCell(new Phrase(MediaGeral.ToString("N2"), font1)));
+            tableObjetivas.AddCell(new PdfPCell(new Phrase(MediaGeral.ToString("N2"), font)));
             tableObjetivas.AddCell("");
             doc.Add(tableObjetivas);
 
@@ -421,18 +419,17 @@ namespace PrototipoRelatorio.BLL
             foreach (var itDisc in DadosDiscursivas)
             {
 
-                if (coordenador.IdCurso == itDisc.IdCurso)
-                {
+                
                     count++;
 
-                    tableDiscursivas.AddCell(new PdfPCell(new Phrase(textInfo.ToLower(itDisc.RespostaDiscursiva), font1)));
-                }
+                    tableDiscursivas.AddCell(new PdfPCell(new Phrase(textInfo.ToLower(itDisc.RespostaDiscursiva), font)));
+                
 
 
             }
             if (count == 0)
             {
-                tableDiscursivas.AddCell(new PdfPCell(new Phrase("Sem respostas", font1)));
+                tableDiscursivas.AddCell(new PdfPCell(new Phrase("Sem respostas", font)));
             }
             doc.Add(tableDiscursivas);
 
@@ -447,5 +444,5 @@ namespace PrototipoRelatorio.BLL
 
     }
 
-    }
 }
+
