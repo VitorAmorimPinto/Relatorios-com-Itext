@@ -28,7 +28,7 @@ namespace PrototipoRelatorio.BLL
             p.Add(" ");
             //Logo da Empresa
             //Diretório da imagem            
-            string DiretorioImg = @"C:\Users\vitor.pinto\Desktop\Projetos\Teste Discursivas 13-11-20\Relatorio\PrototipoRelatorio\img\Logo-UniSales_Vertical.png";
+            string DiretorioImg = @"C:\Users\Vitor\Desktop\Relatorios-com-Itext\img\Logo-UniSales_Vertical.png";
             Image foot = Image.GetInstance(DiretorioImg);
             foot.ScaleAbsolute(60, 40);
 
@@ -371,7 +371,7 @@ namespace PrototipoRelatorio.BLL
                   BaseFont.TIMES_ROMAN,
                   BaseFont.CP1252,
                   BaseFont.EMBEDDED);
-            Font font2 = new Font(bf2, 11);
+            Font font2 = new Font(bf2, 12);
             doc.Open();
             Paragraph p = new Paragraph();
             p.Add(" ");
@@ -384,6 +384,10 @@ namespace PrototipoRelatorio.BLL
             doc.Add(p);
             doc.Add(p);
             doc.Add(p);
+            doc.Add(p);
+            doc.Add(p);
+            doc.Add(p);
+
 
             PdfPTable tableObjetivas = new PdfPTable(3);
             tableObjetivas.TotalWidth = 450f;

@@ -216,8 +216,9 @@ namespace PrototipoRelatorio.BLL
         {
             List<InfraModel> lista = new List<InfraModel>();
 
-            string query = @"SELECT questoes_infraestrutura.texto,media_questao_infraestrutura.media,media_questao_infraestrutura.qtd_avaliacoes FROM media_questao_infraestrutura
-                                JOIN questoes_infraestrutura on questoes_infraestrutura.id = media_questao_infraestrutura.id_questao";
+            string query = @"SELECT qi.texto,mqi.media,mqi.qtd_avaliacoes FROM media_questao_infraestrutura as mqi
+                             JOIN questoes_infraestrutura as qi
+                             on qi.id = mqi.id_questao order by texto asc";
 
             try
             {
@@ -228,7 +229,7 @@ namespace PrototipoRelatorio.BLL
                     {
                         Questao = dr.GetString(0).Trim(),
                         MediaQuestao = dr.GetDouble(1),
-                        QtdAvaliacoes = dr.GetInt32(3)
+                        QtdAvaliacoes = dr.GetInt32(2)
 
                     });
                 }
@@ -240,6 +241,7 @@ namespace PrototipoRelatorio.BLL
             }
 
         }
+
         //Nao
         public List<DocenteXdocenteModelSubReportModel> ListaDocenteXdocenteMasterReport()
         {
