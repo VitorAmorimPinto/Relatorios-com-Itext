@@ -129,7 +129,7 @@ namespace PrototipoRelatorio.BLL
         {
             List<QuestoesDiscursivasModel> lista = new List<QuestoesDiscursivasModel>();
 
-            string query = @"Select texto from resposta_discursiva_Infra";
+            string query = @"Select texto,id_curso from resposta_discursiva_Infra";
 
             try
             {
@@ -139,7 +139,7 @@ namespace PrototipoRelatorio.BLL
                     lista.Add(new QuestoesDiscursivasModel
                     {
                         RespostaDiscursiva = dr.GetString(0).Trim(),
-
+                        IdCurso = dr.GetInt32(1)
                     });
                 }
                 return lista;
@@ -169,6 +169,32 @@ namespace PrototipoRelatorio.BLL
                         NomeCoordenador = dr.GetString(1).Trim(),
                         NomeCurso = dr.GetString(2).Trim()
                         
+                    });
+                }
+                return lista;
+            }
+            catch (Exception e)
+            {
+                return null;
+            }
+
+        }
+        public List<CoordenadorModel> ListaCursos()
+        {
+            List<CoordenadorModel> lista = new List<CoordenadorModel>();
+
+            string query = "SELECT id,nome FROM curso";
+
+            try
+            {
+                dr = consultas.DadosdoRelatorio(query);
+                while (dr.Read())
+                {
+                    lista.Add(new CoordenadorModel
+                    {
+                        IdCurso = dr.GetInt32(0),
+                        NomeCurso = dr.GetString(1).Trim()
+
                     });
                 }
                 return lista;
@@ -241,7 +267,37 @@ namespace PrototipoRelatorio.BLL
             }
 
         }
+        public List<InfraModel> ListaQuestoesInfraPorCurso()
+        {
+            List<InfraModel> lista = new List<InfraModel>();
 
+            string query = @"Select qi.texto,mq.media,mq.qtd_avaliacoes,mq.id_curso,qi.media from media_questao_qtd_curso_infra mq
+                             join questoes_Infraestrutura qi on qi.id = mq.id_questao ";
+
+            try
+            {
+                dr = consultas.DadosdoRelatorio(query);
+                while (dr.Read())
+                {
+                    lista.Add(new InfraModel
+                    {
+                        Questao = dr.GetString(0).Trim(),
+                        MediaQuestao = dr.GetDouble(1),
+                        QtdAvaliacoes = dr.GetInt32(2),
+                        IdCurso = dr.GetInt32(3),
+                        MediaGeral = dr.GetDouble(4)
+
+
+                    });
+                }
+                return lista;
+            }
+            catch (Exception e)
+            {
+                return null;
+            }
+
+        }
         //Nao
         public List<DocenteXdocenteModelSubReportModel> ListaDocenteXdocenteMasterReport()
         {

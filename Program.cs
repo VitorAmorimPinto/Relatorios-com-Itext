@@ -28,7 +28,7 @@ namespace PrototipoRelatorio
             
             MontarRelatorio corpoRelatorio = new MontarRelatorio();
             
-            corpoRelatorio.RelatorioInfraEstrutura();
+            corpoRelatorio.RelatorioInfraEstruturaPorCurso();
 
 
             //Relatórios Coordenadores

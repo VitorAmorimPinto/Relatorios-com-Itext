@@ -12,7 +12,7 @@ namespace PrototipoRelatorio.BLL
 {
    public class MontarRelatorio
     {
-        public void cabecalho(Document doc, PdfWriter writer,int op)
+        public void cabecalho(Document doc, PdfWriter writer,int op,String curso)
         {
            //Escolha das cores
             BaseColor preto = new BaseColor(0, 0, 0);
@@ -28,7 +28,7 @@ namespace PrototipoRelatorio.BLL
             p.Add(" ");
             //Logo da Empresa
             //Diretório da imagem            
-            string DiretorioImg = @"C:\Users\Vitor\Desktop\Relatorios-com-Itext\img\Logo-UniSales_Vertical.png";
+            string DiretorioImg = @"C:\Users\Vitor Amorim\Desktop\Relatorios-com-Itext\img\Logo-UniSales_Vertical.png";
             Image foot = Image.GetInstance(DiretorioImg);
             foot.ScaleAbsolute(60, 40);
 
@@ -53,9 +53,17 @@ namespace PrototipoRelatorio.BLL
                     break;
                 case 2:
                     cell = new PdfPCell(new Phrase("Avaliação dos Professores", titulo));
+                    cell.Border = 0;
+                    cell.HorizontalAlignment = Element.ALIGN_CENTER;
+                    micros.AddCell(cell);
+                    cell = new PdfPCell(new Phrase("1° Ciclo 2021/1", titulo));
                     break;
                 case 3:
                     cell = new PdfPCell(new Phrase("Avaliação Infraestrutura", titulo));
+                    cell.Border = 0;
+                    cell.HorizontalAlignment = Element.ALIGN_CENTER;
+                    micros.AddCell(cell);
+                    cell = new PdfPCell(new Phrase(curso, titulo));
                     break;
                 default:
 
@@ -112,7 +120,7 @@ namespace PrototipoRelatorio.BLL
                 Paragraph p = new Paragraph();
                 p.Add(" ");
                 // Cabeçalho
-               cabecalho(doc, writer,1);
+               cabecalho(doc, writer,1, "a");
                 //Corpo do Relatório
                 BaseFont bf = BaseFont.CreateFont(
                             BaseFont.TIMES_ROMAN,
@@ -257,7 +265,7 @@ namespace PrototipoRelatorio.BLL
 
                 
                 //Cabeçalho relatório
-                cabecalho(doc, writer, 2);
+                cabecalho(doc, writer, 2, "a");
                 doc.Add(p);
                 doc.Add(p);
                 doc.Add(p);
@@ -378,7 +386,7 @@ namespace PrototipoRelatorio.BLL
 
 
             //Cabeçalho relatório
-            cabecalho(doc, writer, 3);
+            cabecalho(doc, writer, 3,"a");
             doc.Add(p);
             doc.Add(p);
             doc.Add(p);
@@ -441,6 +449,114 @@ namespace PrototipoRelatorio.BLL
             doc.Close();
 
 
+        }
+        public void RelatorioInfraEstruturaPorCurso()
+        {   
+
+            var Cursos = new GerarDadosRelatorioBLL().ListaCursos();
+            var QuestoesInfra = new GerarDadosRelatorioBLL().ListaQuestoesInfraPorCurso();
+            var DadosDiscursivas = new GerarDadosRelatorioBLL().DiscursivasInfra();
+            foreach (var curso in Cursos)
+            {
+                int count = 0;
+                CultureInfo cultureInfo = Thread.CurrentThread.CurrentCulture;
+                TextInfo textInfo = cultureInfo.TextInfo;
+                Document doc = new Document(PageSize.A4);
+                string NomeArquivo = "Relatório Infraestrutura" + "-" + curso.NomeCurso;
+                string caminho = @"C:\pdf\" + NomeArquivo + ".pdf";
+                PdfWriter writer = PdfWriter.GetInstance(doc, new FileStream(caminho, FileMode.Create));
+                doc.Open();
+                Paragraph p = new Paragraph();
+                p.Add(" ");
+                // Cabeçalho
+                cabecalho(doc, writer, 3,curso.NomeCurso);
+                doc.Add(p);
+                doc.Add(p);
+                doc.Add(p);
+                doc.Add(p);
+                
+                //Corpo do Relatório
+                BaseFont bf = BaseFont.CreateFont(
+                            BaseFont.TIMES_ROMAN,
+                            BaseFont.CP1252,
+                            BaseFont.EMBEDDED);
+                Font font1 = new Font(bf, 10);
+                BaseFont bf2 = BaseFont.CreateFont(
+                      BaseFont.TIMES_BOLD,
+                      BaseFont.CP1252,
+                      BaseFont.EMBEDDED);
+                Font font2 = new Font(bf2, 10);
+
+               
+
+
+
+                
+
+                PdfPTable tableObjetivas = new PdfPTable(4);
+                tableObjetivas.TotalWidth = 450f;
+                tableObjetivas.LockedWidth = true;
+                tableObjetivas.HorizontalAlignment = PdfPCell.ALIGN_CENTER;
+                tableObjetivas.AddCell(new PdfPCell(new Phrase("Descrição Questão", font2)));
+                tableObjetivas.AddCell(new PdfPCell(new Phrase("Média Curso", font2)));
+                tableObjetivas.AddCell(new PdfPCell(new Phrase("Média Geral", font2)));
+                tableObjetivas.AddCell(new PdfPCell(new Phrase("Respondentes", font2)));
+
+                double MediaQuest = 0;
+                double MediaGeral = 0;
+                int CountQuest = 0;
+                foreach (var QuestInfra in QuestoesInfra)
+                {
+                    if ((curso.IdCurso == QuestInfra.IdCurso))
+                    {
+                        CountQuest++;
+                        MediaQuest = MediaQuest + QuestInfra.MediaQuestao;
+                        MediaGeral = MediaGeral + QuestInfra.MediaGeral;
+                        tableObjetivas.AddCell(new PdfPCell(new Phrase(QuestInfra.Questao, font1)));
+                        tableObjetivas.AddCell(new PdfPCell(new Phrase(QuestInfra.MediaQuestao.ToString("N2"), font1)));
+                        tableObjetivas.AddCell(new PdfPCell(new Phrase(QuestInfra.MediaGeral.ToString("N2"), font1)));
+                        tableObjetivas.AddCell(new PdfPCell(new Phrase(QuestInfra.QtdAvaliacoes.ToString(), font1)));
+                    }
+
+
+
+                }
+                MediaGeral = MediaGeral / CountQuest;
+                MediaQuest = MediaQuest / CountQuest;
+                tableObjetivas.AddCell(new PdfPCell(new Phrase("Média", font2)));
+                tableObjetivas.AddCell(new PdfPCell(new Phrase(MediaQuest.ToString("N2"), font1)));
+                tableObjetivas.AddCell(new PdfPCell(new Phrase(MediaGeral.ToString("N2"), font1)));
+                tableObjetivas.AddCell("");
+                doc.Add(tableObjetivas);
+
+                doc.Add(p);
+                PdfPTable tableDiscursivas = new PdfPTable(1);
+                tableDiscursivas.TotalWidth = 450f;
+                tableDiscursivas.LockedWidth = true;
+                tableDiscursivas.AddCell(new PdfPCell(new Phrase("Respostas Discursivas", font2)));
+                foreach (var itDisc in DadosDiscursivas)
+                {
+
+                    if (curso.IdCurso == itDisc.IdCurso)
+                    {
+                        count++;
+
+                        tableDiscursivas.AddCell(new PdfPCell(new Phrase(textInfo.ToLower(itDisc.RespostaDiscursiva), font1)));
+                    }
+
+
+                }
+                if (count == 0)
+                {
+                    tableDiscursivas.AddCell(new PdfPCell(new Phrase("Sem respostas", font1)));
+                }
+                doc.Add(tableDiscursivas);
+
+
+                doc.Close();
+
+
+            }
         }
 
 

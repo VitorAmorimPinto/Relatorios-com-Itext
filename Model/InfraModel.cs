@@ -12,5 +12,7 @@ namespace PrototipoRelatorio.Model
         public int QtdAvaliacoes { get; set; }
         public string Questao { get; set; }
         public double MediaQuestao { get; set; }
+        public int IdCurso { get; set; }
+        public double MediaGeral { get; set; }
     }
 }

@@ -12,7 +12,7 @@ namespace PrototipoRelatorio.Conexao
         SqlConnection con = new SqlConnection();
         public Conexao()
         {
-            con.ConnectionString = @"Data Source=DESKTOP-TIMCLG6;Initial Catalog=cpa;Integrated Security=True";
+            con.ConnectionString = @"Data Source=DESKTOP-LJ4UIPF;Initial Catalog=cpa2021;Integrated Security=True";
         }
 
         public SqlConnection Conectar()
